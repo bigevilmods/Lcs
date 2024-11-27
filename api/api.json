@@ -19,6 +19,8 @@
             "url": "Stream_URL"
         }
     ],
+
+    
     "livetv": [
         {
             "id": "1",
@@ -35,6 +37,8 @@
             "url": "Stream_URL"
         }
     ],
+
+
     "series": [
         {
             "id": "1",
@@ -46,7 +50,7 @@
             "episodes": [
                 {
                     "id": "1",
-                    "title": "Introdução ao Java",
+                    "title": "Episode 1",
                     "poster": "IMGPOSTURL",
                     "description": "Um vídeo introdutório sobre programação em Java.",
                     "duration": "10:30",
@@ -54,13 +58,12 @@
                 },
                 {
                     "id": "2",
-                    "title": "Conceitos Básicos",
+                    "title": "Episode 2",
                     "poster": "IMGPOSTURL",
                     "description": "Aprenda os conceitos básicos de Java.",
                     "duration": "12:45",
                     "url": "EpisodeStreamURL"
-                }
-            ]
+                }]
         },
         {
             "id": "2",
@@ -72,23 +75,25 @@
             "episodes": [
                 {
                     "id": "1",
-                    "title": "Configuração do Ambiente",
+                    "title": "Episode 1",
                     "poster": "IMGPOSTURL",
-                    "description": "Configuração inicial do Spring Boot.",
-                    "duration": "08:15",
+                    "description": "Um vídeo introdutório sobre programação em Java.",
+                    "duration": "10:30",
                     "url": "EpisodeStreamURL"
                 },
                 {
                     "id": "2",
-                    "title": "Construindo sua Primeira API",
+                    "title": "Episode 2",
                     "poster": "IMGPOSTURL",
-                    "description": "Como criar uma API usando Spring Boot.",
-                    "duration": "14:20",
+                    "description": "Aprenda os conceitos básicos de Java.",
+                    "duration": "12:45",
                     "url": "EpisodeStreamURL"
-                }
-            ]
+                }]
         }
     ],
+
+
+
     "movies": [
         {
             "id": "1",
