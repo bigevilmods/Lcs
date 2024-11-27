@@ -74,20 +74,20 @@
             "duration": "15:30",
             "episodes": [
                 {
-                    "id": "1",
-                    "title": "Episode 1",
-                    "poster": "IMGPOSTURL",
-                    "description": "Um vídeo introdutório sobre programação em Java.",
-                    "duration": "10:30",
-                    "url": "EpisodeStreamURL"
+                    "episodeid": "1",
+                    "episodetitle": "Episode 1",
+                    "episodeposter": "IMGPOSTURL",
+                    "episodedescription": "Um vídeo introdutório sobre programação em Java.",
+                    "episodeduration": "10:30",
+                    "episodeurl": "EpisodeStreamURL"
                 },
                 {
-                    "id": "2",
-                    "title": "Episode 2",
-                    "poster": "IMGPOSTURL",
-                    "description": "Aprenda os conceitos básicos de Java.",
-                    "duration": "12:45",
-                    "url": "EpisodeStreamURL"
+                    "episodeid": "2",
+                    "episodetitle": "Episode 2",
+                    "episodeposter": "IMGPOSTURL",
+                    "episodedescription": "Aprenda os conceitos básicos de Java.",
+                    "episodeduration": "12:45",
+                    "episodeurl": "EpisodeStreamURL"
                 }]
         }
     ],
