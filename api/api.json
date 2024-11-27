@@ -20,18 +20,18 @@
         }
     ],
 
-    
+
     "livetv": [
         {
             "id": "1",
-            "title": "Introdução ao Java",
+            "title": "TV Ao vivo",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "url": "Stream_URL"
         },
         {
             "id": "2",
-            "title": "Tutorial de Spring Boot",
+            "title": "TV Ao Vivo",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "url": "Stream_URL"
@@ -42,7 +42,7 @@
     "series": [
         {
             "id": "1",
-            "title": "Introdução ao Java",
+            "title": "Series",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "description": "Um vídeo introdutório sobre programação em Java.",
@@ -67,7 +67,7 @@
         },
         {
             "id": "2",
-            "title": "Tutorial de Spring Boot",
+            "title": "Series",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "description": "Aprenda a criar APIs com Spring Boot.",
@@ -97,7 +97,7 @@
     "movies": [
         {
             "id": "1",
-            "title": "Introdução ao Java",
+            "title": "Movies",
             "url": "https://example.com/videos/java-intro",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
@@ -106,7 +106,7 @@
         },
         {
             "id": "2",
-            "title": "Tutorial de Spring Boot",
+            "title": "Movies",
             "url": "https://example.com/videos/spring-boot",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
@@ -115,7 +115,7 @@
         },
         {
             "id": "3",
-            "title": "Conceitos de REST APIs",
+            "title": "Movies",
             "url": "https://example.com/videos/rest-apis",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
