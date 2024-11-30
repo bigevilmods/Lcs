@@ -24,6 +24,7 @@
     "livetv": [
         {
             "id": "1",
+            "mimeType":"M3U8",
             "title": "TV Ao vivo",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
@@ -31,7 +32,8 @@
         },
         {
             "id": "2",
-            "title": "TV Ao Vivo",
+            "mimeType":"HLS",
+            "title": "TV Ao vivo",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "url": "Stream_URL"
@@ -97,21 +99,21 @@
     "movies": [
         {
             "id": "1",
+            "mimeType":"MP4",
             "title": "Movies",
             "url": "https://example.com/videos/java-intro",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
-            "description": "Um vídeo introdutório sobre programação em Java.",
-            "duration": "10:30"
+            "description": "Um vídeo introdutório sobre programação em Java."
         },
         {
             "id": "2",
+            "mimeType":"MKV",
             "title": "Movies",
             "url": "https://example.com/videos/spring-boot",
             "tag": "Suspense",
             "poster": "IMGPOSTURL",
             "description": "Aprenda a criar APIs com Spring Boot.",
-            "duration": "15:45"
         },
         {
             "id": "3",
