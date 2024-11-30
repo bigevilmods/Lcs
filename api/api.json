@@ -1,102 +1,5 @@
 {
-    "futebol": [
-        {
-            "id": "1",
-            "title": "Corinthians X Palmeiras",
-            "homeTeamicon": "hometeamimage_url",
-            "awayteamicon": "awayteamimage_url",
-            "hour": "12H",
-            "tvid": "",
-            "url": "Stream_URL"
-        },
-        {
-            "id": "2",
-            "title": "Flamengo X São Paulo",
-            "homeTeamicon": "hometeamimage_url",
-            "awayteamicon": "awayteamimage_url",
-            "hour": "12H",
-            "tvid": "",
-            "url": "Stream_URL"
-        }
-    ],
-
-
-    "livetv": [
-        {
-            "id": "1",
-            "mimeType":"M3U8",
-            "title": "TV Ao vivo",
-            "tag": "Suspense",
-            "poster": "IMGPOSTURL",
-            "url": "Stream_URL"
-        },
-        {
-            "id": "2",
-            "mimeType":"HLS",
-            "title": "TV Ao vivo",
-            "tag": "Suspense",
-            "poster": "IMGPOSTURL",
-            "url": "Stream_URL"
-        }
-    ],
-
-
-    "series": [
-        {
-            "id": "1",
-            "title": "Series",
-            "tag": "Suspense",
-            "poster": "IMGPOSTURL",
-            "description": "Um vídeo introdutório sobre programação em Java.",
-            "duration": "10:30",
-            "episodes": [
-                {
-                    "episodeid": "1",
-                    "episodetitle": "Episode 1",
-                    "episodeposter": "IMGPOSTURL",
-                    "episodedescription": "Um vídeo introdutório sobre programação em Java.",
-                    "episodeduration": "10:30",
-                    "episodeurl": "EpisodeStreamURL"
-                },
-                {
-                    "episodeid": "2",
-                    "episodetitle": "Episode 2",
-                    "poster": "IMGPOSTURL",
-                    "episodedescription": "Aprenda os conceitos básicos de Java.",
-                    "episodeduration": "12:45",
-                    "episodeurl": "EpisodeStreamURL"
-                }]
-        },
-        {
-            "id": "2",
-            "title": "Series",
-            "tag": "Suspense",
-            "poster": "IMGPOSTURL",
-            "description": "Aprenda a criar APIs com Spring Boot.",
-            "duration": "15:30",
-            "episodes": [
-                {
-                    "episodeid": "1",
-                    "episodetitle": "Episode 1",
-                    "episodeposter": "IMGPOSTURL",
-                    "episodedescription": "Um vídeo introdutório sobre programação em Java.",
-                    "episodeduration": "10:30",
-                    "episodeurl": "EpisodeStreamURL"
-                },
-                {
-                    "episodeid": "2",
-                    "episodetitle": "Episode 2",
-                    "episodeposter": "IMGPOSTURL",
-                    "episodedescription": "Aprenda os conceitos básicos de Java.",
-                    "episodeduration": "12:45",
-                    "episodeurl": "EpisodeStreamURL"
-                }]
-        }
-    ],
-
-
-
-    "movies": [
+    "moviexs": [
         {
             "id": "1",
             "mimeType":"MP4",
@@ -105,7 +8,7 @@
             "tag": "Suspense",
             "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
             "description": "Um vídeo introdutório sobre programação em Java."
-        }
+        },
         {
             "id": "2",
             "mimeType":"MP4",
