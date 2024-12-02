@@ -1,8 +1,9 @@
 {
-    "moviexs": [
+    "content": [
         {
             "id": "1",
             "mimeType":"MP4",
+            "category":"movie",
             "title": "After",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Suspense",
@@ -12,11 +13,33 @@
         {
             "id": "2",
             "mimeType":"MP4",
+            "category":"Series",
             "title": "After",
             "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
             "tag": "Suspense",
             "poster": "https://img.freepik.com/premium-psd/movie-poster-design-template_841014-16988.jpg",
             "description": "Um vídeo introdutório sobre programação em Java."
+        },
+        {
+            "id": "3",
+            "mimeType":"MP4",
+            "category":"Live TV",
+            "title": "After",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Free channel",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+            "description": "Um vídeo introdutório sobre programação em Java."
+        },
+        {
+            "id": "4",
+            "mimeType":"MP4",
+            "category":"Live TV",
+            "title": "After",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Free channel",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+            "description": "Um vídeo introdutório sobre programação em Java."
         }
+
     ]
 }
