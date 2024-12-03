@@ -1,94 +1,64 @@
 {
     "content": [
         {
-            "id": "16366836",
+            "id": 533535,
             "mimeType": "MP4",
             "category": "movie",
-            "title": "Venom: The Last Dance Venom: A Última Rodada",
+            "title": "Deadpool & Wolverine",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Action, Adventure, Sci-Fi, Thriller",
-            "poster": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@.jpg",
-            "description": "Em Venom: The Last Dance, Tom Hardy retorna como Venom, um dos maiores e mais complexos personagens da Marvel, para o filme final da trilogia. Eddie e Venom estão em fuga. Caçados por seus dois mundos e com a rede se fechando, a dupla é forçada a tomar uma decisão devastadora que fechará as cortinas para a última dança de Venom e Eddie."
+            "tag": "Ação, Comédia, Ficção científica",
+            "poster": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
+            "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em... Porra. As sinopses são tão estúpidas."
         },
         {
-            "id": "tt9218128",
-            "mimeType": "MP4",
-            "category": "movie",
-            "title": "Gladiador",
-            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Action",
-            "poster": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
-            "description": "Um general romano planeja a melhor vingança contra o imperador corrupto que matou sua familia e o fez escravo."
-        },
-        {
-            "id": "tt9218128",
+            "id": 1241982,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Moana 2",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Animation",
-            "poster": "https://m.media-amazon.com/images/M/MV5BMDcxOTQ0NTEtZGQwNC00NzExLThkMGMtY2U3ZDIxYTU0NDJlXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
-            "description": "Após receber um chamado de seus ancestrais, Moana parte em uma jornada nos mares distantes da Oceania, desbravando águas perigosas, rumo a uma aventura diferente de todas as que já viveu."
+            "tag": "Animação, Aventura, Família, Comédia",
+            "poster": "https://image.tmdb.org/t/p/w500/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
+            "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa."
         },
         {
-            "id": "tt9218128",
+            "id": 1184918,
             "mimeType": "MP4",
             "category": "movie",
-            "title": "Gladiador II",
+            "title": "Robô Selvagem",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Action",
-            "poster": "https://m.media-amazon.com/images/M/MV5BN2E2NTI2NDUtY2Y0ZC00NDJmLTk1NmYtOGEzZTRlODYxMDNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-            "description": "Após ter seu lar conquistado pelos imperadores tirânicos que agora comandam Roma, Lucius é forçado a entrar no Coliseu e deve olhar para o seu passado para encontrar força para devolver a glória de Roma ao seu povo."
+            "tag": "Animação, Ficção científica, Família",
+            "poster": "https://image.tmdb.org/t/p/w500/cWsd33Nwp3tgYB5LMMadl3qVMKh.jpg",
+            "description": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão."
         },
         {
-            "id": "tt9218128",
+            "id": 1100782,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "Sorria 2",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Terror, Mistério",
+            "poster": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+            "description": "A sequência vai girar em torno de Quinn Parsons (vivida por Naomi Scott, de Aladdin), uma cantora miserável em turnê que está tentando se recuperar do seu vício em drogas. Ela se tornará alvo da entidade do primeiro filme após seu traficante lhe passar a maldição."
+        },
+        {
+            "id": 558449,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "Gladiador 2",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Ação, Aventura",
+            "poster": "https://image.tmdb.org/t/p/w500/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+            "description": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu."
+        },
+        {
+            "id": 402431,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Wicked",
-            "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-            "tag": "Fair Tale",
-            "poster": "https://img.freepik.com/premium-psd/movie-poster-design-template_841014-16988.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
-        },
-        {
-            "id": "3",
-            "mimeType": "MP4",
-            "category": "Live TV",
-            "title": "After",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Free channel",
-            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
-        },
-        {
-            "id": "4",
-            "mimeType": "MP4",
-            "category": "Live TV",
-            "title": "After",
-            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Free channel",
-            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
-        },
-        {
-            "id": 1241982,
-            "mimeType": "MP4",
-            "category": "movie",
-            "title": "Moana 2",
-            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Animação, Aventura, Família, Comédia",
-            "poster": "https://image.tmdb.org/t/p/w500/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
-            "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa."
-        },
-        {
-            "id": 1241982,
-            "mimeType": "MP4",
-            "category": "movie",
-            "title": "Moana 2",
-            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "tag": "Animação, Aventura, Família, Comédia",
-            "poster": "https://image.tmdb.org/t/p/w500/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
-            "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa."
+            "tag": "Drama, Fantasia, Romance",
+            "poster": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+            "description": "O longa conta a história de Elphaba (Cynthia Erivo), uma jovem incompreendida por causa de sua pele verde incomum, que ainda não descobriu seu verdadeiro poder, e de Glinda (Ariana Grande), uma jovem popular e ambiciosa que só quer saber de privilégios e ainda não conhece a sua verdadeira alma. As duas se conhecem na Universidade de Shiz, na Terra de OZ, e se tornam grandes amigas, mas suas diferenças fazem com que a vida as separe, levando-as a cumprirem seus destinos como a Bruxa Boa e a Bruxa Má do Oeste."
         },
         {
             "id": 533535,
@@ -99,6 +69,66 @@
             "tag": "Ação, Comédia, Ficção científica",
             "poster": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
             "description": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em... Porra. As sinopses são tão estúpidas."
+        },
+        {
+            "id": 238,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "O Poderoso Chefão",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Drama, Crime",
+            "poster": "https://image.tmdb.org/t/p/w500/uP46DujkD3nwcisOjz9a0Xw0Knj.jpg",
+            "description": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos."
+        },
+        {
+            "id": 240,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "O Poderoso Chefão: Parte II",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Drama, Crime",
+            "poster": "https://image.tmdb.org/t/p/w500/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+            "description": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo."
+        },
+        {
+            "id": 242,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "O Poderoso Chefão: Parte III",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Crime, Drama, Thriller",
+            "poster": "https://image.tmdb.org/t/p/w500/sLvNxyDfM9cHS3jwG0rEa7eR4lh.jpg",
+            "description": "Don Michael Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary."
+        },
+        {
+            "id": 45758,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "O Poderoso Chefão Por Acaso",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Ação, Comédia, Crime",
+            "poster": "https://image.tmdb.org/t/p/w500/sHbSKVxRRHf18mtp9yinaYlAjK9.jpg",
+            "description": ""
+        },
+        {
+            "id": 1097870,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "Querido Papai Noel",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Comédia, Fantasia, Terror",
+            "poster": "https://image.tmdb.org/t/p/w500/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg",
+            "description": "O simpático aluno do 6º ano Liam escreve para o Papai Noel pedindo para ele provar que ele é real. Mas Liam é disléxico e acidentalmente envia sua carta para Satanás, que aparece na casa de Liam, animado para ter sua primeira carta de fanboy e querendo um pouco da alma de Liam."
+        },
+        {
+            "id": 845781,
+            "mimeType": "MP4",
+            "category": "movie",
+            "title": "Operação Natal",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Ação, Comédia, Fantasia",
+            "poster": "https://image.tmdb.org/t/p/w500/vjwR2Wql9BIrwkKWyvDLSuFeDgE.jpg",
+            "description": "Depois que o Papai Noel – codinome: Das Neves – é sequestrado, o Chefe de Segurança do Polo Norte deve se unir ao mais infame caçador de recompensas do mundo em uma missão global e cheia de ação para salvar o Natal."
         }
     ]
 }
