@@ -4,6 +4,16 @@
             "id": "tt9218128",
             "mimeType":"MP4",
             "category":"movie",
+            "title": "Moana 2",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Animation",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDcxOTQ0NTEtZGQwNC00NzExLThkMGMtY2U3ZDIxYTU0NDJlXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+            "description": "Após receber um chamado de seus ancestrais, Moana parte em uma jornada nos mares distantes da Oceania, desbravando águas perigosas, rumo a uma aventura diferente de todas as que já viveu."
+        },
+        {
+            "id": "tt9218128",
+            "mimeType":"MP4",
+            "category":"movie",
             "title": "Gladiador II",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Action",
@@ -11,12 +21,12 @@
             "description": "Após ter seu lar conquistado pelos imperadores tirânicos que agora comandam Roma, Lucius é forçado a entrar no Coliseu e deve olhar para o seu passado para encontrar força para devolver a glória de Roma ao seu povo."
         },
         {
-            "id": "2",
+            "id": "tt9218128",
             "mimeType":"MP4",
-            "category":"Series",
-            "title": "After",
+            "category":"movie",
+            "title": "Wicked",
             "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-            "tag": "Suspense",
+            "tag": "Fair Tale",
             "poster": "https://img.freepik.com/premium-psd/movie-poster-design-template_841014-16988.jpg",
             "description": "Um vídeo introdutório sobre programação em Java."
         },
