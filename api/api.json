@@ -4,6 +4,16 @@
             "id": "tt9218128",
             "mimeType":"MP4",
             "category":"movie",
+            "title": "Gladiador",
+            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+            "tag": "Action",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+            "description": "Um general romano planeja a melhor vingança contra o imperador corrupto que matou sua familia e o fez escravo."
+        },
+        {
+            "id": "tt9218128",
+            "mimeType":"MP4",
+            "category":"movie",
             "title": "Moana 2",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Animation",
