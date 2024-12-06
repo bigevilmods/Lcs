@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "id": "16366836",
+            "id": 16366836,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Venom: The Last Dance Venom: A Última Rodada",
@@ -11,7 +11,7 @@
             "description": "Em Venom: The Last Dance, Tom Hardy retorna como Venom, um dos maiores e mais complexos personagens da Marvel, para o filme final da trilogia. Eddie e Venom estão em fuga. Caçados por seus dois mundos e com a rede se fechando, a dupla é forçada a tomar uma decisão devastadora que fechará as cortinas para a última dança de Venom e Eddie."
         },
         {
-            "id": "tt9218128",
+            "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Gladiador",
@@ -21,7 +21,7 @@
             "description": "Um general romano planeja a melhor vingança contra o imperador corrupto que matou sua familia e o fez escravo."
         },
         {
-            "id": "tt9218128",
+            "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Moana 2",
@@ -31,7 +31,7 @@
             "description": "Após receber um chamado de seus ancestrais, Moana parte em uma jornada nos mares distantes da Oceania, desbravando águas perigosas, rumo a uma aventura diferente de todas as que já viveu."
         },
         {
-            "id": "tt9218128",
+            "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Gladiador II",
@@ -41,7 +41,7 @@
             "description": "Após ter seu lar conquistado pelos imperadores tirânicos que agora comandam Roma, Lucius é forçado a entrar no Coliseu e deve olhar para o seu passado para encontrar força para devolver a glória de Roma ao seu povo."
         },
         {
-            "id": "tt9218128",
+            "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
             "title": "Wicked",
@@ -51,7 +51,7 @@
             "description": "Um vídeo introdutório sobre programação em Java."
         },
         {
-            "id": "3",
+            "id":3,
             "mimeType": "MP4",
             "category": "Live TV",
             "title": "After",
@@ -61,13 +61,13 @@
             "description": "Um vídeo introdutório sobre programação em Java."
         },
         {
-            "id": "4",
+            "id": 73586,
             "mimeType": "MP4",
             "category": "series",
-            "title": "After",
-            "tag": "Free channel",
-            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
+            "title": "Yellowstone",
+            "tag": "Faroeste, Drama",
+            "poster": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+            "description": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto."
         },
         {
             "id": 1,
