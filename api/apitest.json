@@ -63,12 +63,28 @@
         {
             "id": "4",
             "mimeType": "MP4",
-            "category": "Live TV",
+            "category": "series",
             "title": "After",
-            "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Free channel",
             "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
             "description": "Um vídeo introdutório sobre programação em Java."
+        },
+        {
+            "id": 1,
+            "category": "episode",
+            "targetid":73586,
+            "title": "After 1",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+            "description": "Um vídeo introdutório sobre programação em Java."
+        },
+        {
+            "id": 2,
+            "category": "episode",
+            "targetid":73586,
+            "title": "After 2",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+            "description": "Um vídeo introdutório sobre programação em Java."
         }
+
     ]
 }

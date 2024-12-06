@@ -19,6 +19,15 @@
             "tag": "Animação, Aventura, Família, Comédia",
             "poster": "https://image.tmdb.org/t/p/w500/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
             "description": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa."
+        },
+        {
+            "id": 73586,
+            "mimeType": "MP4",
+            "category": "series",
+            "title": "Yellowstone",
+            "tag": "Faroeste, Drama",
+            "poster": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+            "description": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto."
         }
     ]
 }
