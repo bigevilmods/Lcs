@@ -1,10 +1,31 @@
 {
+    "episodes":[
+        {
+            "id": 1,
+            "category": "episode",
+            "mimeType": "MP4",
+            "targetid":73586,
+            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "title": "After 1",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+            "description": "Um vídeo introdutório sobre programação em Java."
+        },
+        {
+            "id": 2,
+            "category": "episode",
+            "mimeType": "MP4",
+            "targetid":73586,
+            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "title": "After 2",
+            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
+        }
+
+    ],
     "content": [
         {
             "id": 16366836,
             "mimeType": "MP4",
             "category": "movie",
-            "targetid":0,
             "title": "Venom: The Last Dance Venom: A Última Rodada",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Action, Adventure, Sci-Fi, Thriller",
@@ -15,7 +36,6 @@
             "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
-            "targetid":0,
             "title": "Gladiador",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Action",
@@ -26,7 +46,6 @@
             "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
-            "targetid":0,
             "title": "Moana 2",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Animation",
@@ -36,7 +55,6 @@
         {
             "id":9218128,
             "mimeType": "MP4",
-            "targetid":0,
             "category": "movie",
             "title": "Gladiador II",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
@@ -48,7 +66,6 @@
             "id":9218128,
             "mimeType": "MP4",
             "category": "movie",
-            "targetid":0,
             "title": "Wicked",
             "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
             "tag": "Fair Tale",
@@ -59,7 +76,6 @@
             "id":3,
             "mimeType": "MP4",
             "category": "Live TV",
-            "targetid":0,
             "title": "After",
             "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "tag": "Free channel",
@@ -68,7 +84,6 @@
         },
         {
             "id": 73586,
-            "targetid":0,
             "mimeType": "MP4",
             "category": "series",
             "title": "Yellowstone",
@@ -76,28 +91,6 @@
             "tag": "Faroeste, Drama",
             "poster": "https://image.tmdb.org/t/p/w500/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
             "description": "John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto."
-        },
-        {
-            "id": 1,
-            "category": "episode",
-            "mimeType": "MP4",
-            "targetid":73586,
-            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "tag": "Faroeste, Drama",
-            "title": "After 1",
-            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
-        },
-        {
-            "id": 2,
-            "category": "episode",
-            "tag": "Faroeste, Drama",
-            "mimeType": "MP4",
-            "targetid":73586,
-            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-            "title": "After 2",
-            "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
-            "description": "Um vídeo introdutório sobre programação em Java."
         }
 
     ]
