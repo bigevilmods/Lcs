@@ -75,6 +75,7 @@
             "category": "episode",
             "targetid":73586,
             "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "tag": "Faroeste, Drama",
             "title": "After 1",
             "poster": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg",
             "description": "Um vídeo introdutório sobre programação em Java."
@@ -82,6 +83,7 @@
         {
             "id": 2,
             "category": "episode",
+            "tag": "Faroeste, Drama",
             "targetid":73586,
             "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "title": "After 2",
