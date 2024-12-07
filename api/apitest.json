@@ -73,6 +73,7 @@
         {
             "id": 1,
             "category": "episode",
+            "mimeType": "MP4",
             "targetid":73586,
             "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "tag": "Faroeste, Drama",
@@ -84,6 +85,7 @@
             "id": 2,
             "category": "episode",
             "tag": "Faroeste, Drama",
+            "mimeType": "MP4",
             "targetid":73586,
             "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "title": "After 2",
